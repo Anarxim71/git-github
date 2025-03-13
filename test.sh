@@ -1,3 +1,4 @@
-First test
-#add
-#add2
+#/bin/bash
+echo 'First test'
+Second test
+Third test
